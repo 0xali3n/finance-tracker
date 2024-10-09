@@ -15,3 +15,15 @@ This is a console based application that helps users manage their finances by tr
 ## Main Function:
 Provides a menu for users to register or log in, then navigate to the main functionalities of the application.<br />
 
+## Summary of Expected Outputs
+User registration and successful message.<br />
+Successful login with options displayed.<br />
+Successful transaction addition.<br />
+Transaction details displayed after adding a transaction.<br />
+Successful transaction edit with updated values.<br />
+Updated transaction details displayed after editing.<br />
+Successful deletion of the transaction.<br />
+No transactions displayed after deletion.<br />
+Invalid credentials message for failed login.<br />
+Exit message when exiting the application.<br />
+
